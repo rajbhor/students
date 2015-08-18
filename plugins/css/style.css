@@ -1,0 +1,25 @@
+/* 
+    Document   : style
+    Created on : 6 Jul, 2013, 12:52:52 PM
+    Author     : lenovo
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+input{width:200px;
+         border:1px solid #3b5999;} 
+         input.r{width:auto;
+        }
+         input.s{width:auto;
+          background-color: #3b5999;
+          border-radius:5px;
+         color:white;}
+         input.c{width:auto;
+         background-color: antiquewhite;
+         border-radius:5px;
+         color:black;}
+

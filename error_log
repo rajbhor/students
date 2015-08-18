@@ -1,0 +1,342 @@
+[26-Jun-2014 18:36:57 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[26-Jun-2014 18:39:01 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[26-Jun-2014 18:39:02 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[26-Jun-2014 18:39:12 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[26-Jun-2014 18:39:57 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[26-Jun-2014 18:40:45 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[26-Jun-2014 18:41:34 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[26-Jun-2014 18:45:40 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[26-Jun-2014 18:45:45 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[26-Jun-2014 18:47:18 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[26-Jun-2014 18:49:35 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[26-Jun-2014 18:51:59 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[26-Jun-2014 08:46:20 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/userGetStarted.php on line 13
+[26-Jun-2014 19:19:13 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 07:42:16 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 07:42:18 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[26-Jun-2014 21:20:59 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '169.254.64.203' (113) in /home2/zantrikc/public_html/DU_ADMINCP/factoryBackup.php on line 39
+[27-Jun-2014 07:54:39 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 08:11:04 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 08:11:05 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 08:24:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 08:26:17 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 08:59:16 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 12:10:42 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 14:59:01 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 14:59:03 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 15:07:26 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 15:27:15 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 15:47:39 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 16:04:49 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 16:22:53 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 16:33:40 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 16:37:26 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 16:41:58 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 16:42:00 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 16:42:36 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 16:43:21 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 17:50:56 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 17:51:52 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 17:51:53 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 17:53:06 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 17:56:39 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 17:56:53 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 18:02:07 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 18:03:55 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 18:07:33 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 18:12:23 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[27-Jun-2014 18:14:50 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 07:59:41 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 08:27:01 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 08:29:40 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 08:50:28 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 08:53:53 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 08:54:12 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 08:57:16 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 08:58:12 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 09:08:57 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 09:36:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 11:10:05 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 11:37:42 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 11:37:50 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 11:37:58 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 11:42:37 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 11:44:50 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 11:48:26 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 11:50:18 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 11:55:29 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 12:15:07 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 13:01:36 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 13:34:32 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 13:34:39 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 03:15:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[28-Jun-2014 03:15:45 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[28-Jun-2014 03:15:52 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[28-Jun-2014 03:15:57 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[28-Jun-2014 03:16:52 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[28-Jun-2014 03:16:58 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[28-Jun-2014 03:17:03 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[28-Jun-2014 03:18:14 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[28-Jun-2014 03:18:34 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[28-Jun-2014 03:18:37 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[28-Jun-2014 03:18:37 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentEntryStarted.php on line 86
+[28-Jun-2014 03:18:40 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[28-Jun-2014 13:54:34 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 13:56:03 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 03:26:56 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[28-Jun-2014 13:57:06 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[28-Jun-2014 03:28:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentManager.php on line 33
+[28-Jun-2014 03:33:42 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentManager.php on line 33
+[28-Jun-2014 14:11:26 Asia/Kolkata] PHP Fatal error:  Call to undefined function current_url() in /home2/zantrikc/public_html/DU_ADMINCP/includes/footer.php on line 1
+[30-Jun-2014 06:09:53 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[30-Jun-2014 06:16:30 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[30-Jun-2014 06:16:30 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentEntryStarted.php on line 86
+[30-Jun-2014 06:50:09 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/userGetStarted.php on line 13
+[01-Jul-2014 01:04:52 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[02-Jul-2014 01:22:22 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[02-Jul-2014 01:22:29 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[02-Jul-2014 01:22:29 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentManager.php on line 15
+[02-Jul-2014 01:23:49 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[02-Jul-2014 01:39:10 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[02-Jul-2014 01:39:10 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentEntryStarted.php on line 86
+[02-Jul-2014 02:32:23 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[02-Jul-2014 02:32:23 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentEntryStarted.php on line 86
+[02-Jul-2014 02:37:40 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '169.254.64.203' (113) in /home2/zantrikc/public_html/DU_ADMINCP/factoryBackup.php on line 39
+[02-Jul-2014 04:06:31 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[02-Jul-2014 04:06:31 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/centerCourseGetStartedLogger.php on line 47
+[02-Jul-2014 04:36:43 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[02-Jul-2014 04:40:28 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[02-Jul-2014 04:40:28 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentEntryStarted.php on line 86
+[02-Jul-2014 04:51:27 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/deptStudentsFilter.php on line 15
+[02-Jul-2014 05:00:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[02-Jul-2014 06:29:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/deptStudentsFilter.php on line 15
+[03-Jul-2014 04:59:34 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[03-Jul-2014 05:48:17 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[03-Jul-2014 05:48:17 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentEntryStarted.php on line 86
+[03-Jul-2014 06:02:13 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[03-Jul-2014 06:02:13 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentEntryStarted.php on line 86
+[04-Jul-2014 01:19:35 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[04-Jul-2014 01:19:35 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentEntryStarted.php on line 86
+[04-Jul-2014 01:48:49 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[04-Jul-2014 01:51:55 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[04-Jul-2014 01:58:21 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[04-Jul-2014 02:01:11 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[04-Jul-2014 04:37:27 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentInfo.php on line 77
+[04-Jul-2014 04:37:27 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/universityStudentProfileWindowViewer.php on line 513
+[04-Jul-2014 04:37:27 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentInfo.php on line 77
+[04-Jul-2014 05:05:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[04-Jul-2014 05:07:18 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[04-Jul-2014 22:27:12 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '169.254.64.203' (113) in /home2/zantrikc/public_html/DU_ADMINCP/factoryBackup.php on line 39
+[04-Jul-2014 22:33:46 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[04-Jul-2014 22:33:46 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentEntryStarted.php on line 86
+[04-Jul-2014 22:34:31 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '169.254.64.203' (113) in /home2/zantrikc/public_html/DU_ADMINCP/factoryBackup.php on line 39
+[04-Jul-2014 22:51:06 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/deptStudentsFilter.php on line 33
+[04-Jul-2014 22:51:30 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentInfo.php on line 54
+[04-Jul-2014 22:51:30 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentInfo.php on line 54
+[04-Jul-2014 22:51:30 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentInfo.php on line 54
+[04-Jul-2014 23:19:51 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[04-Jul-2014 23:19:59 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[04-Jul-2014 23:22:18 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[05-Jul-2014 01:10:25 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[05-Jul-2014 01:10:25 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentManager.php on line 15
+[06-Jul-2014 23:53:19 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentInfo.php on line 77
+[06-Jul-2014 23:53:19 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/universityStudentProfileWindowViewer.php on line 513
+[06-Jul-2014 23:53:19 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentInfo.php on line 77
+[07-Jul-2014 05:08:51 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '169.254.64.203' (113) in /home2/zantrikc/public_html/DU_ADMINCP/factoryBackup.php on line 39
+[07-Jul-2014 06:32:07 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[07-Jul-2014 06:32:07 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/centerCourseGetStartedLogger.php on line 47
+[07-Jul-2014 23:26:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentInfo.php on line 77
+[07-Jul-2014 23:26:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/universityStudentProfileWindowViewer.php on line 513
+[07-Jul-2014 23:26:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentInfo.php on line 77
+[07-Jul-2014 23:27:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentInfo.php on line 77
+[07-Jul-2014 23:27:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/universityStudentProfileWindowViewer.php on line 513
+[07-Jul-2014 23:27:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/studentInfo.php on line 77
+[08-Jul-2014 01:37:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCP/includes/loginfo.php on line 6
+[05-Aug-2014 10:54:21 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[06-Aug-2014 04:34:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[06-Aug-2014 04:34:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[06-Aug-2014 06:32:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[10-Aug-2014 22:42:24 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[11-Aug-2014 02:15:07 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[11-Aug-2014 02:15:07 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/fee/feeManageGetStarted.php on line 77
+[12-Aug-2014 02:10:41 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[12-Aug-2014 02:11:24 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '169.254.64.203' (113) in /home2/zantrikc/public_html/DU_ADMINCPDEMO/factoryBackup.php on line 39
+[12-Aug-2014 04:54:56 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[12-Aug-2014 04:54:56 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/fee/feeGetStartedLogger.php on line 54
+[12-Aug-2014 04:59:46 America/Chicago] PHP Warning:  require(fee/feeManageGetedited.php): failed to open stream: No such file or directory in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 41
+[12-Aug-2014 04:59:46 America/Chicago] PHP Warning:  require(fee/feeManageGetedited.php): failed to open stream: No such file or directory in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 41
+[12-Aug-2014 04:59:46 America/Chicago] PHP Fatal error:  require(): Failed opening required 'fee/feeManageGetedited.php' (include_path='.:/opt/php54/lib/php') in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 41
+[12-Aug-2014 05:00:03 America/Chicago] PHP Warning:  require(fee/feeManageGetedited.php): failed to open stream: No such file or directory in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 41
+[12-Aug-2014 05:00:03 America/Chicago] PHP Warning:  require(fee/feeManageGetedited.php): failed to open stream: No such file or directory in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 41
+[12-Aug-2014 05:00:03 America/Chicago] PHP Fatal error:  require(): Failed opening required 'fee/feeManageGetedited.php' (include_path='.:/opt/php54/lib/php') in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 41
+[12-Aug-2014 05:00:26 America/Chicago] PHP Warning:  require(fee/feeManageGetedited.php): failed to open stream: No such file or directory in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 41
+[12-Aug-2014 05:00:26 America/Chicago] PHP Warning:  require(fee/feeManageGetedited.php): failed to open stream: No such file or directory in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 41
+[12-Aug-2014 05:00:26 America/Chicago] PHP Fatal error:  require(): Failed opening required 'fee/feeManageGetedited.php' (include_path='.:/opt/php54/lib/php') in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 41
+[12-Aug-2014 05:01:48 America/Chicago] PHP Warning:  require(fee/feeManageGetedited.php): failed to open stream: No such file or directory in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 38
+[12-Aug-2014 05:01:48 America/Chicago] PHP Warning:  require(fee/feeManageGetedited.php): failed to open stream: No such file or directory in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 38
+[12-Aug-2014 05:01:48 America/Chicago] PHP Fatal error:  require(): Failed opening required 'fee/feeManageGetedited.php' (include_path='.:/opt/php54/lib/php') in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 38
+[12-Aug-2014 05:02:03 America/Chicago] PHP Warning:  require(fee/feeManageGetedited.php): failed to open stream: No such file or directory in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 38
+[12-Aug-2014 05:02:03 America/Chicago] PHP Warning:  require(fee/feeManageGetedited.php): failed to open stream: No such file or directory in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 38
+[12-Aug-2014 05:02:03 America/Chicago] PHP Fatal error:  require(): Failed opening required 'fee/feeManageGetedited.php' (include_path='.:/opt/php54/lib/php') in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 38
+[12-Aug-2014 05:03:45 America/Chicago] PHP Warning:  require(fee/feeManageGetedited.php): failed to open stream: No such file or directory in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 38
+[12-Aug-2014 05:03:45 America/Chicago] PHP Warning:  require(fee/feeManageGetedited.php): failed to open stream: No such file or directory in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 38
+[12-Aug-2014 05:03:45 America/Chicago] PHP Fatal error:  require(): Failed opening required 'fee/feeManageGetedited.php' (include_path='.:/opt/php54/lib/php') in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 38
+[12-Aug-2014 05:03:55 America/Chicago] PHP Warning:  require(fee/feeManageGetedited.php): failed to open stream: No such file or directory in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 38
+[12-Aug-2014 05:03:55 America/Chicago] PHP Warning:  require(fee/feeManageGetedited.php): failed to open stream: No such file or directory in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 38
+[12-Aug-2014 05:03:55 America/Chicago] PHP Fatal error:  require(): Failed opening required 'fee/feeManageGetedited.php' (include_path='.:/opt/php54/lib/php') in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 38
+[12-Aug-2014 05:04:00 America/Chicago] PHP Warning:  require(fee/feeManageGetedited.php): failed to open stream: No such file or directory in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 38
+[12-Aug-2014 05:04:00 America/Chicago] PHP Warning:  require(fee/feeManageGetedited.php): failed to open stream: No such file or directory in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 38
+[12-Aug-2014 05:04:00 America/Chicago] PHP Fatal error:  require(): Failed opening required 'fee/feeManageGetedited.php' (include_path='.:/opt/php54/lib/php') in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 38
+[12-Aug-2014 06:13:09 America/Chicago] PHP Warning:  require(fee/feeManageGetedited.php): failed to open stream: No such file or directory in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 41
+[12-Aug-2014 06:13:09 America/Chicago] PHP Warning:  require(fee/feeManageGetedited.php): failed to open stream: No such file or directory in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 41
+[12-Aug-2014 06:13:09 America/Chicago] PHP Fatal error:  require(): Failed opening required 'fee/feeManageGetedited.php' (include_path='.:/opt/php54/lib/php') in /home2/zantrikc/public_html/DU_ADMINCPDEMO/feeManageGetEdited.php on line 41
+[12-Aug-2014 06:31:43 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentInfo.php on line 77
+[12-Aug-2014 06:31:43 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/universityStudentProfileWindowViewer.php on line 513
+[12-Aug-2014 06:31:43 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentInfo.php on line 77
+[13-Aug-2014 06:26:43 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[13-Aug-2014 06:26:43 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[14-Aug-2014 05:33:34 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[14-Aug-2014 05:33:34 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[19-Aug-2014 02:08:11 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[19-Aug-2014 02:08:11 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[19-Aug-2014 02:08:14 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[19-Aug-2014 02:08:14 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[19-Aug-2014 03:01:17 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[19-Aug-2014 03:01:17 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[19-Aug-2014 07:22:08 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[20-Aug-2014 05:00:01 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[20-Aug-2014 05:00:05 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[20-Aug-2014 06:03:04 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[20-Aug-2014 06:03:04 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/fee/feeManageGetStarted.php on line 77
+[25-Aug-2014 03:48:47 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[25-Aug-2014 03:48:47 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[25-Aug-2014 05:25:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[25-Aug-2014 05:25:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[26-Aug-2014 04:38:47 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[26-Aug-2014 05:12:31 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[26-Aug-2014 05:12:31 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[26-Aug-2014 05:12:54 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[26-Aug-2014 05:12:54 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[26-Aug-2014 05:20:56 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[26-Aug-2014 05:20:56 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[27-Aug-2014 23:51:29 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[27-Aug-2014 23:51:29 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[28-Aug-2014 05:13:34 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[28-Aug-2014 05:13:34 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/centerCourseGetStartedLogger.php on line 47
+[28-Aug-2014 23:49:27 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[31-Aug-2014 01:45:27 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[31-Aug-2014 01:45:35 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[31-Aug-2014 01:45:35 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[02-Sep-2014 03:45:01 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[02-Sep-2014 05:25:04 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[02-Sep-2014 05:25:07 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[02-Sep-2014 05:25:07 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[02-Sep-2014 05:34:19 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[02-Sep-2014 05:34:19 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 15
+[02-Sep-2014 23:22:57 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[03-Sep-2014 00:53:00 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[03-Sep-2014 00:53:00 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[03-Sep-2014 01:10:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[03-Sep-2014 01:10:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[03-Sep-2014 02:15:10 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[03-Sep-2014 02:15:10 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 15
+[03-Sep-2014 02:25:57 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[03-Sep-2014 07:22:43 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[03-Sep-2014 07:22:43 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/fee/feeGetStartedLogger.php on line 54
+[04-Sep-2014 04:06:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[04-Sep-2014 04:41:59 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[05-Sep-2014 01:05:59 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[05-Sep-2014 01:08:46 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[05-Sep-2014 01:08:46 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[05-Sep-2014 01:10:37 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[05-Sep-2014 01:10:37 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[05-Sep-2014 01:10:58 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[05-Sep-2014 01:10:59 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[05-Sep-2014 01:16:00 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[05-Sep-2014 01:16:01 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[05-Sep-2014 02:24:40 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[05-Sep-2014 02:24:40 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[08-Sep-2014 02:04:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[08-Sep-2014 02:04:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[08-Sep-2014 04:24:28 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[08-Sep-2014 04:24:28 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[10-Sep-2014 00:57:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[10-Sep-2014 00:57:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[10-Sep-2014 00:59:20 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[10-Sep-2014 00:59:20 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[10-Sep-2014 01:10:26 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[10-Sep-2014 01:10:26 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[10-Sep-2014 01:24:56 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[10-Sep-2014 01:24:56 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[10-Sep-2014 01:29:14 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[10-Sep-2014 11:05:11 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[11-Sep-2014 02:17:43 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[11-Sep-2014 02:17:43 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[11-Sep-2014 05:12:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[11-Sep-2014 05:12:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[12-Sep-2014 00:18:22 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[12-Sep-2014 00:53:09 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[14-Sep-2014 23:36:17 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[14-Sep-2014 23:36:18 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[15-Sep-2014 04:40:08 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[15-Sep-2014 04:40:08 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[16-Sep-2014 04:12:47 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[16-Sep-2014 04:12:47 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[16-Sep-2014 04:13:31 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[16-Sep-2014 05:50:49 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[16-Sep-2014 05:50:49 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[17-Sep-2014 01:38:34 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[17-Sep-2014 01:38:34 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[17-Sep-2014 01:40:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[17-Sep-2014 01:40:17 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[17-Sep-2014 01:45:06 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[17-Sep-2014 01:45:07 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[18-Sep-2014 23:23:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[18-Sep-2014 23:23:37 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[18-Sep-2014 23:23:37 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[22-Sep-2014 05:00:30 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[22-Sep-2014 05:00:31 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[04-Oct-2014 02:15:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[04-Oct-2014 02:15:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 15
+[13-Oct-2014 04:44:54 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[13-Oct-2014 04:44:54 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[20-Oct-2014 01:39:01 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[20-Oct-2014 01:39:01 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[20-Oct-2014 06:17:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[20-Oct-2014 06:17:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentEntryStarted.php on line 86
+[19-Nov-2014 22:51:31 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[19-Nov-2014 22:51:39 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[19-Nov-2014 22:51:39 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/fee/feeManageGetStarted.php on line 78
+[19-Nov-2014 22:51:49 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[19-Nov-2014 22:51:55 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[19-Nov-2014 22:51:55 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 15
+[20-Nov-2014 03:15:39 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/fee/feeManageGetEdited.php on line 11
+[20-Nov-2014 03:15:41 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/fee/feeManageGetEdited.php on line 11
+[20-Nov-2014 03:16:07 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/fee/feeManageGetEdited.php on line 11
+[20-Nov-2014 03:16:09 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/fee/feeManageGetEdited.php on line 11
+[20-Nov-2014 03:16:17 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/fee/feeManageGetEdited.php on line 11
+[20-Nov-2014 03:16:18 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/fee/feeManageGetEdited.php on line 11
+[20-Nov-2014 05:24:19 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/fee/feeManageGetEdited.php on line 11
+[10-Dec-2014 23:16:59 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/studentManager.php on line 33
+[06-Feb-2015 04:49:11 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[06-Feb-2015 23:16:48 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[03-Mar-2015 05:01:48 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[03-Mar-2015 05:02:03 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[03-Mar-2015 05:02:25 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[03-Mar-2015 05:26:49 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[03-Mar-2015 05:27:14 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[03-Mar-2015 05:28:18 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zantrikc/public_html/DU_ADMINCPDEMO/includes/loginfo.php on line 6
+[09-Mar-2015 03:27:45 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dibruaci/public_html/students/includes/loginfo.php on line 6
+[24-Mar-2015 05:07:56 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dibruaci/public_html/students/includes/loginfo.php on line 6
+[24-Mar-2015 05:07:56 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dibruaci/public_html/students/includes/studentEntryStarted.php on line 86
+[24-Mar-2015 05:10:49 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dibruaci/public_html/students/includes/loginfo.php on line 6
+[24-Mar-2015 05:10:50 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dibruaci/public_html/students/fee/feeGetStartedLogger.php on line 54
+[24-Mar-2015 05:13:19 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dibruaci/public_html/students/includes/loginfo.php on line 6
+[24-Mar-2015 05:13:19 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dibruaci/public_html/students/fee/feeManageGetStarted.php on line 78
+[24-Mar-2015 05:14:26 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dibruaci/public_html/students/includes/loginfo.php on line 6
+[24-Mar-2015 05:14:26 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dibruaci/public_html/students/fee/feeGetStartedLogger.php on line 54
+[24-Mar-2015 05:22:21 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dibruaci/public_html/students/includes/loginfo.php on line 6
+[24-Mar-2015 05:22:21 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dibruaci/public_html/students/fee/feeManageGetStarted.php on line 78
+[24-Mar-2015 05:23:53 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dibruaci/public_html/students/includes/loginfo.php on line 6
+[24-Mar-2015 05:24:24 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dibruaci/public_html/students/includes/loginfo.php on line 6
+[24-Mar-2015 05:24:24 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dibruaci/public_html/students/fee/feeManageGetStarted.php on line 78

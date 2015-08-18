@@ -1,0 +1,20 @@
+<?php ob_start(); session_start();
+require("../includes/configLogin.php");
+require("../includes/auto_connect.php");
+$update=mysql_query("Update g_users set user_logged_in='no' where user_id=".$_SESSION['uids']);
+$_SESSION['password']="";
+      $_SESSION['username']="";
+      $_SESSION['uids']="";
+      $_SESSION['user_type']="";
+      $_SESSION['branch_type']="";
+      $_SESSION['logged_in']=FALSE;
+      $_SESSION['key']="";
+      $_SESSION['sessdeptname']="";
+ session_unset($_SESSION['username']);
+ session_unset($_SESSION['uids']);
+session_unset($_SESSION['user_type']);
+session_unset($_SESSION['branch_type']);
+session_unset($_SESSION['sessdeptname']);
+ session_destroy();
+ header("Location:".$base."index.php");
+ ?>
