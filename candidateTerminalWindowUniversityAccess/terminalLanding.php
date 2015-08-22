@@ -202,15 +202,44 @@ setTimeout(function(){
                             <table cellpadding="0" cellspacing="0" width="100%" class="sOrders">
                                 <thead>
                                     <tr>
-                                        <th>Student ID</th><th>Student Name</th><th>Order ID</th><th>Payment Mode</th><th>Semester </th><th>Email </th><th>Phone </th><th >Department </th><th >Course </th><th>Total amount</th><th>Status</th><th>Transaction id</th>
+                                        <th>Order ID</th><th>Payment Mode</th><th>Semester </th><th>Email </th><th>Phone </th><th >Department </th><th >Course </th><th>Total amount</th><th>Status</th><th>Transaction id</th>
                                     </tr>
                                 </thead>
                                 <tbody>
-                    <?php $order=mysql_query("SELECT * FROM `order` where customer_id='".$myname."'");
+                    <?php $order=mysql_query("SELECT * FROM `order` where customer_id='".$myname."' and status='SUCCESS'");
                     while($rows = mysql_fetch_array($order))
                     {
-                       
-                        echo "<tr>"."<td>".$rows['order_id']."</td><td>".$rows['payment_mode']."</td><td>".$rows['semester']."</td><td>".$rows['Customer_email']."</td><td>".$rows['Customer_phone']."</td><td>".$rows['department']."</td><td>".$rows['course']."</td><td>".$rows['total_amount']."</td><td>".$rows['status']."</td><td>".$rows['trans_id']."</td>"."</tr>";
+                        $trans_type=$rows['trans_type'];
+                       switch ($trans_type) {
+                           case '01':
+                               $trans_type="Netbanking";
+                               break;
+                           case '02':
+                               $trans_type="Credit card";
+                               break;
+                           case '03':
+                               $trans_type="Debit card";
+                               break;
+                           case '04':
+                               $trans_type="Cash card";
+                               break;
+                           case '05':
+                               $trans_type="Mobile wallet";
+                               break;
+                           case '06':
+                               $trans_type="IMPS";
+                               break;
+                           case '07':
+                               $trans_type="Reward points";
+                               break;
+                           case '08':
+                               $trans_type="Rupay";
+                               break;
+                           default:
+                               $trans_type="NA";
+                               break;
+                       }
+                        echo "<tr>"."<td>".$rows['order_id']."</td><td>".$trans_type."</td><td>".$rows['semester']."</td><td>".$rows['Customer_email']."</td><td>".$rows['Customer_phone']."</td><td>".$rows['department']."</td><td>".$rows['course']."</td><td>".$rows['total_amount']."</td><td>".$rows['status']."</td><td>".$rows['trans_id']."</td>"."</tr>";
                        
                     }              
 
