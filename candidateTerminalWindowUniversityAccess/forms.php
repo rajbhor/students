@@ -256,7 +256,7 @@ include("convToWords.php");
                                         Total Fees:
                                 </td>
                                 <td >
-                                        <?php if($hostel_required==1){echo sprintf('%0.2f', $total_fee=$total_fee + $hostel_fee);}else{echo sprintf('%0.2f', $total_fee=$total_fee);} ?>
+                                        <?php if($hostel_required==1){echo sprintf('%0.2f', $total_fee=$total_fee);}else{echo sprintf('%0.2f', $total_fee=$total_fee-$hostel_fee);} ?>
                                 </td>    
                             </tr>
                             <tr>

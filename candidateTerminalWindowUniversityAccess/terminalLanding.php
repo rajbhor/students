@@ -202,7 +202,7 @@ setTimeout(function(){
                             <table cellpadding="0" cellspacing="0" width="100%" class="sOrders">
                                 <thead>
                                     <tr>
-                                        <th>Order ID</th><th>Payment Mode</th><th>Semester </th><th>Email </th><th>Phone </th><th >Department </th><th >Course </th><th>Total amount</th><th>Status</th><th>Transaction id</th>
+                                        <th>Order ID</th><th>Transaction Type</th><th>Semester </th><th>Email </th><th>Phone </th><th >Department </th><th >Course </th><th>Total amount</th><th>Status</th><th>Transaction id</th>
                                     </tr>
                                 </thead>
                                 <tbody>
