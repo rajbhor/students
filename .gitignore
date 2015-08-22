@@ -2,3 +2,5 @@ pgconfig*.php
 configLogin*.php
 auto_connect*.php
 config*.php
+pgrequest.php
+pgresponse.php

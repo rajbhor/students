@@ -183,7 +183,7 @@ setTimeout(function(){
                                         <td> <span class="date">Semester Fee</span></td>
                                          <td> <span class="date"><?php echo $semester_code; ?></span></td>
                                          <td> <span class="price"><?php echo sprintf('%0.2f', $total_fee); ?></span> </td>
-                                        <td><span class="date">30/08/2014</span></td>
+                                        <td><span class="date">30/08/2015</span></td>
                                        <td > <a href="forms.php" ><button class="btn btn-small">Pay Now</button> </a></td>
                                     </tr>
                                     
@@ -210,7 +210,7 @@ setTimeout(function(){
                     while($rows = mysql_fetch_array($order))
                     {
                        
-                        echo "<tr>"."<td>".$rows['customer_id']."</td><td>".$rows['student_name']."</td><td>".$rows['order_id']."</td><td>".$rows['payment_mode']."</td><td>".$rows['semester']."</td><td>".$rows['Customer_email']."</td><td>".$rows['Customer_phone']."</td><td>".$rows['department']."</td><td>".$rows['course']."</td><td>".$rows['total_amount']."</td><td>".$rows['status']."</td><td>".$rows['trans_id']."</td>"."</tr>";
+                        echo "<tr>"."<td>".$rows['order_id']."</td><td>".$rows['payment_mode']."</td><td>".$rows['semester']."</td><td>".$rows['Customer_email']."</td><td>".$rows['Customer_phone']."</td><td>".$rows['department']."</td><td>".$rows['course']."</td><td>".$rows['total_amount']."</td><td>".$rows['status']."</td><td>".$rows['trans_id']."</td>"."</tr>";
                        
                     }              
 
